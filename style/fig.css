@@ -169,3 +169,74 @@ and working to the (skill class) */
 /* .skill-description{
     padding: 104px 33px 30px 30px;
 } */
+
+/* resume container */
+.resume-title{
+    text-align: center;
+    color:rgba(24, 24, 24, 1);
+    font-weight: bold;
+    font-size: 35px;
+    margin-bottom: 113px;
+}
+.resume-container{
+    display:flex;
+    gap: 24px;
+}
+.experience-title{
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(71, 71, 71, 1);
+}
+.experience-sub-title{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.experience-description, .experience-sub-title{
+    color:rgba(117, 117, 117, 1);
+}
+.resume hr{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+/* .resume.dcv{
+    text-align: center;
+} */
+ .cv-button{
+    margin-top: 50px;
+    margin-bottom: 113px;
+ }
+ /* footer section last page */
+ footer{
+    display: flex;
+    padding: 130px 230px;
+    gap: 117px;
+ }
+ .footer-section{
+    width: 50%;
+    margin-left: 5%;
+ }
+ .footer-section p{
+       margin-top: 20px;
+       margin-bottom: 30px;
+ }
+ form input, textarea {
+    padding-top: 14px;
+    padding-bottom: 14px ;
+    padding-left: 14px ;
+    font-weight: bold;
+    margin-bottom: 24px ;
+    width: 400px;
+    background-color: white;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+    
+ }
+ .section-title{
+    margin-bottom:28px;
+ }
+ .icon a{
+    margin-right:20px ;
+ }

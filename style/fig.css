@@ -78,6 +78,9 @@ nav ul{
            color: #757575;
        
 }
+.text-center{
+    text-align: center;
+}
 /* .cn{
     background-color: white;
 } */
@@ -114,8 +117,11 @@ main{
     margin: 0 auto;
 }
 /* about style/ main section under <body> tag */
-.article{
-    border-radius: 10px;
+
+ main section{
+          margin-top: 130px;
+          margin-bottom: 130px;
+ }   
     
 }
 .container{
@@ -127,7 +133,7 @@ main{
     border-radius: 10px;
     padding: 131px 157px;
     text-align: center;
-    margin-top: 130px;
+    
     
 
 }
@@ -142,3 +148,24 @@ main{
 .item-title{
 
 }
+/* Third page 2nd section in body 
+and working to the (skill class) */
+.section-description{
+    margin-top: 30px ;
+    margin-bottom: 50px;
+}
+
+.skills-container{
+    display:flex;
+    gap:24px;
+}
+.skill{
+    border: 3px solid white;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    padding: 30px;
+    box-shadow: 0 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+/* .skill-description{
+    padding: 104px 33px 30px 30px;
+} */

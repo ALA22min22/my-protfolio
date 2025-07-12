@@ -98,10 +98,19 @@ nav ul{
 .b-gri{
     font-weight: 600;
     font-size: 45px;
+    margin-bottom: 5px;
+    
 }
+
 .b-title{
     font-size: 85px;
-    font-weight: 700;
+    font-weight: 700px;
+    margin-top: 5px;
+     margin-bottom: 20px;
+   
+}
+.b-content p{
+    margin-bottom: 20px;
 }
 p{
     font-size: 18px;
